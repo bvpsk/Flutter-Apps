@@ -4,7 +4,11 @@ Picture Sharing app made with Flutter.
 
 More likely an Instagram Clone but not completely.
 
+<br/>
 
+Try The app for yourself <a href = "https://github.com/kumararduino/Flutter-Apps/blob/master/picture_perfect/release/app-arm64-v8a-release.apk">Click Here </a>
+
+<br/>
 <img src = "https://github.com/kumararduino/Flutter-Apps/blob/master/picture_perfect/sprites/app.gif" width = 200 />
 
 This app consists of Several screens 
