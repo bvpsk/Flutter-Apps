@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "802576537353",
+    "firebase_url": "https://picture-perfect-82d27.firebaseio.com",
+    "project_id": "picture-perfect-82d27",
+    "storage_bucket": "picture-perfect-82d27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802576537353:android:ecac5be7f139fcc7b6a5d8",
+        "android_client_info": {
+          "package_name": "com.example.pictureperfect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802576537353-tcqc8km3r0ctgics5krfgi6nams79th5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIBRXYTzvNvXh1EezSQif7y9ZVgl_RTKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802576537353-tcqc8km3r0ctgics5krfgi6nams79th5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
