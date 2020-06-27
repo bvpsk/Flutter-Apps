@@ -1,16 +1,64 @@
-# pictureperfect
+<img src = "https://github.com/kumararduino/Flutter-Apps/blob/master/picture_perfect/sprites/playstore.png" width = 150 /><h1> Picture Perfect</h1>
 
-A new Flutter application.
+Picture Sharing app made with Flutter.
 
-## Getting Started
+More likely an Instagram Clone but not completely.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<img src = "https://github.com/kumararduino/Flutter-Apps/blob/master/picture_perfect/sprites/app.gif" width = 200 />
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+This app consists of Several screens 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1) Splash Screen
+<img src = "https://github.com/kumararduino/Flutter-Apps/blob/master/picture_perfect/sprites/splash_screen.jpeg" width = 200 />
+
+2) Main Screen
+<img src = "https://github.com/kumararduino/Flutter-Apps/blob/master/picture_perfect/sprites/main_screen.jpeg" width = 200 />
+
+3)Login and SignUp Screens
+<div>
+<img src = "https://github.com/kumararduino/Flutter-Apps/blob/master/picture_perfect/sprites/login_screen.jpeg" width = 200 />
+<img src = "https://github.com/kumararduino/Flutter-Apps/blob/master/picture_perfect/sprites/sign_up_screen.jpeg" width = 200 />
+</div>
+
+4) Profile Screen
+<br/>
+  a) Blank Screen with Verification Status of email and phone incomplete..
+  <br/>
+        <img src = "https://github.com/kumararduino/Flutter-Apps/blob/master/picture_perfect/sprites/user_profile_with_no_verification.jpeg" width = 200 />
+        <br/>
+  b) Blank Screen with Verification Status of email incomplete..
+  <br/>
+        <img src = "https://github.com/kumararduino/Flutter-Apps/blob/master/picture_perfect/sprites/user_profile_with_no_email_verification.jpeg" width = 200 />
+        <br/>
+  c) Blank Screen with Verification Status succesfull..
+  <br/>
+        <img src = "https://github.com/kumararduino/Flutter-Apps/blob/master/picture_perfect/sprites/user_profile_with_details_verified.jpeg" width = 200 />
+        <br/>
+  d) User Gallery
+  <br/>
+        <img src = "https://github.com/kumararduino/Flutter-Apps/blob/master/picture_perfect/sprites/user_gallery.jpeg" width = 200 />
+        <br/>
+  e) Phone OTP Enter Screen
+  <br/>
+        <img src = "https://github.com/kumararduino/Flutter-Apps/blob/master/picture_perfect/sprites/pnone_otp_verification.jpeg" width = 200 />
+        <br/>
+5) Pic Upload Screen
+   <br/>
+    <img src = "https://github.com/kumararduino/Flutter-Apps/blob/master/picture_perfect/sprites/pic_upload_screen.jpeg" width = 200 />
+   <br/>
+6) Prompt to verify details
+   <br/>
+    <img src = "https://github.com/kumararduino/Flutter-Apps/blob/master/picture_perfect/sprites/verify_prompt.jpeg" width = 200 />
+   <br/>
+
+7) Feed Screen
+   <br/>
+    <img src = "https://github.com/kumararduino/Flutter-Apps/blob/master/picture_perfect/sprites/feed_screen.jpeg" width = 200 /> 
+    <br/>
+
+References
+<br/>
+<a href = "https://icons8.com/icon/42840/picture" > Icon </a>
+<br/>
+Several Images from <a href = "https://unsplash.com" >UnSplash</a>
